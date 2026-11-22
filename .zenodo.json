@@ -1,0 +1,10 @@
+{
+  "title": "Who audits the auditor? R3 development-round results",
+  "upload_type": "dataset",
+  "description": "Per-trace results (no trace content) behind the preliminary note 'Who audits the auditor? A preliminary check of reward-hacking judges'. Known reward hacks were planted into copies of real coding-agent traces on Terminal-Bench 2.1 tasks; a rule-based auditor and an LLM judge were scored on catching them. Development round: shows auditor behaviour, not error rates.",
+  "creators": [{"name": "Gondane, Shreyash"}],
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "keywords": ["reward hacking", "AI evaluation", "auditing", "LLM-as-judge", "Terminal-Bench", "AI safety"],
+  "related_identifiers": [{"identifier": "https://shreyashgondane.com/research/r3-auditor-calibration.html", "relation": "isSupplementTo", "resource_type": "publication-preprint"}]
+}

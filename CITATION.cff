@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Who audits the auditor? R3 development-round results"
+authors:
+  - family-names: Gondane
+    given-names: Shreyash
+version: 1.0.0
+date-released: 2026-11-22
+license: CC-BY-4.0
+url: "https://shreyashgondane.com/research/r3-auditor-calibration.html"
+keywords: [reward hacking, AI evaluation, auditing, LLM-as-judge, Terminal-Bench, AI safety]
